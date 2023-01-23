@@ -1,0 +1,32 @@
+body{
+    color: blue;
+    background-color: lightgreen;
+}
+
+
+#gameboard{
+    border: 3px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50px;
+}
+
+#score{
+    text-align: center;
+    font-size: 50px;
+}
+
+#p1{
+    font-size: 40px;
+}
+
+
+#p2{
+    font-size: 100px
+}
+
+
+
+
